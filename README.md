@@ -1,4 +1,4 @@
-# Law, Planning, and Military Urbanism: The Making of Lahore Cantonment, 1849–1947
+# Everyday Life in Lahore Cantonment under British Rule, 1849-1947
 
 An archival and historiographical investigation into the administrative, legal, and spatial transformation of colonial Lahore. This research evaluates how British colonial policies reshaped the urban landscape of the subcontinent through the establishment of the Lahore Cantonment.
 
