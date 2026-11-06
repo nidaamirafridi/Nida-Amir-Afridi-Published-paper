@@ -19,7 +19,7 @@ This paper relies extensively on a historical-empirical approach, utilizing prim
 ## Project Structure
 ```text
 ├── README.md               # Project overview and academic abstract
-├── SSRA-+5386-5397 (2).pdf # Complete published research paper
+├── Lahore_Cantonment_Urbanism_Research.pdf # Complete published research paper
 └── documents/              # Supporting archival references or lists
 ```
 
